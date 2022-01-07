@@ -34,7 +34,7 @@ Taking a closer look at the data specifically for the time frame January 2019 to
 
 
 ## Summary
-While there more rides and drivers in urban cities, the rural cities are more profitable on average.
+While there more rides and drivers in urban cities, the rural cities are more profitable on average. Urban cities have the highest revenue when it comes to total fare.
 
 ### Three business recommendations 
 
